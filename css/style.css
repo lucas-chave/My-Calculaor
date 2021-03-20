@@ -1,0 +1,14 @@
+body, div, header, section, h1, h2, li, ol, ul, {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
